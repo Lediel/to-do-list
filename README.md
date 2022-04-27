@@ -1,4 +1,4 @@
-#To Do List
+<h1>To Do List</h1>
 
 Projeto feito em React, para iniciar basta digitar "npm start" e ir para http://localhost:3000/
 
